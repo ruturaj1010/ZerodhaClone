@@ -1,12 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import HomePage from './components/landingpage/home/HomePage';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <body>
-      <h1>Har har Mahadev</h1>
-    </body>
+    <HomePage />
   </React.StrictMode>
 );
