@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="row mb-4">
           <div className="col">
             <img
-              style={{ width: "50%" }}
+              style={{ width: "50%" , marginBottom:"15px" }}
               src="media/images/logo.svg"
               alt="logo "
             />
