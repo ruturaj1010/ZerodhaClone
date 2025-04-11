@@ -30,7 +30,7 @@ const Awards = () => {
               </ul>
             </div>
           </div>
-          <img style={{width:"95%"}} src="media/images/pressLogos.png" alt="" />
+          <img style={{width:"95%"}} src="media/images/pressLogos.png" alt="img" />
         </div>
       </div>
     </div>
